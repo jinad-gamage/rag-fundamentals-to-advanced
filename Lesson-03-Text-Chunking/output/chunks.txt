@@ -1,0 +1,63 @@
+--- company_policy_page_1_chunk_1 ---
+ABC Company | Fictional sample for RAG training
+Page 1
+ABC Company
+Employee Handbook - Company Policy
+Sample training document | Version 1.0 | Effective: 1 January 2026
+This is a fictional company policy created for RAG document-loading, chunking, retrieval and citation
+exercises. It is not legal or HR advice.
+1. Annual Leave Policy
+• Permanent full-time employees receive 20 paid annual leave days per calendar year.
+
+--- company_policy_page_1_chunk_2 ---
+• Permanent full-time employees receive 20 paid annual leave days per calendar year.
+• Annual leave requests must be submitted through the HR portal at least 7 calendar days before the
+intended start date.
+• Managers should approve or reject annual leave requests within 3 working days.
+• Unused annual leave can be carried forward up to 5 days into the next calendar year and must be used by
+31 March.
+2. Sick Leave Policy
+• Employees receive 10 paid sick leave days per calendar year.
+
+--- company_policy_page_1_chunk_3 ---
+31 March.
+2. Sick Leave Policy
+• Employees receive 10 paid sick leave days per calendar year.
+• A medical certificate is required when sick leave lasts more than 2 consecutive working days.
+• Employees should notify their manager before 9:00 AM on the first day of absence whenever possible.
+3. Working Hours and Remote Work
+• Standard working hours are Monday to Friday, 9:00 AM to 5:30 PM, including a 30-minute lunch break.
+
+--- company_policy_page_1_chunk_4 ---
+• Eligible employees may work remotely up to 2 days per week with manager approval.
+• Employees must follow company security requirements when working remotely.
+
+--- company_policy_page_2_chunk_1 ---
+ABC Company | Fictional sample for RAG training
+Page 2
+ABC Company - Company Policy (continued)
+4. Information Security
+• Employees must use multi-factor authentication for company accounts.
+• Passwords must not be shared with colleagues or third parties.
+• Suspected phishing emails or security incidents must be reported to the IT Security team within 1 hour of
+discovery.
+5. Expense Reimbursement
+
+--- company_policy_page_2_chunk_2 ---
+discovery.
+5. Expense Reimbursement
+• Approved business expenses must be submitted through the Finance portal within 30 days of the expense
+date.
+• Expense claims must include an itemized receipt and manager approval.
+• Finance normally processes complete claims within 10 working days.
+6. Training and Development
+• Each permanent employee has an annual professional development budget of USD 300, subject to
+manager approval.
+
+--- company_policy_page_2_chunk_3 ---
+manager approval.
+• Training requests must explain how the course supports the employee role or team goals.
+7. Contacts
+• Human Resources: hr@abc-example.com (fictional training address).
+• IT Security: security@abc-example.com (fictional training address).
+• Finance: finance@abc-example.com (fictional training address).

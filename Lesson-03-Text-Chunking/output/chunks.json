@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "company_policy_page_1_chunk_1",
+    "page_content": "ABC Company | Fictional sample for RAG training\nPage 1\nABC Company\nEmployee Handbook - Company Policy\nSample training document | Version 1.0 | Effective: 1 January 2026\nThis is a fictional company policy created for RAG document-loading, chunking, retrieval and citation\nexercises. It is not legal or HR advice.\n1. Annual Leave Policy\n• Permanent full-time employees receive 20 paid annual leave days per calendar year.",
+    "metadata": {
+      "source": "company_policy.pdf",
+      "page": 1,
+      "chunk_number": 1
+    }
+  },
+  {
+    "chunk_id": "company_policy_page_1_chunk_2",
+    "page_content": "• Permanent full-time employees receive 20 paid annual leave days per calendar year.\n• Annual leave requests must be submitted through the HR portal at least 7 calendar days before the\nintended start date.\n• Managers should approve or reject annual leave requests within 3 working days.\n• Unused annual leave can be carried forward up to 5 days into the next calendar year and must be used by\n31 March.\n2. Sick Leave Policy\n• Employees receive 10 paid sick leave days per calendar year.",
+    "metadata": {
+      "source": "company_policy.pdf",
+      "page": 1,
+      "chunk_number": 2
+    }
+  },
+  {
+    "chunk_id": "company_policy_page_1_chunk_3",
+    "page_content": "31 March.\n2. Sick Leave Policy\n• Employees receive 10 paid sick leave days per calendar year.\n• A medical certificate is required when sick leave lasts more than 2 consecutive working days.\n• Employees should notify their manager before 9:00 AM on the first day of absence whenever possible.\n3. Working Hours and Remote Work\n• Standard working hours are Monday to Friday, 9:00 AM to 5:30 PM, including a 30-minute lunch break.",
+    "metadata": {
+      "source": "company_policy.pdf",
+      "page": 1,
+      "chunk_number": 3
+    }
+  },
+  {
+    "chunk_id": "company_policy_page_1_chunk_4",
+    "page_content": "• Eligible employees may work remotely up to 2 days per week with manager approval.\n• Employees must follow company security requirements when working remotely.",
+    "metadata": {
+      "source": "company_policy.pdf",
+      "page": 1,
+      "chunk_number": 4
+    }
+  },
+  {
+    "chunk_id": "company_policy_page_2_chunk_1",
+    "page_content": "ABC Company | Fictional sample for RAG training\nPage 2\nABC Company - Company Policy (continued)\n4. Information Security\n• Employees must use multi-factor authentication for company accounts.\n• Passwords must not be shared with colleagues or third parties.\n• Suspected phishing emails or security incidents must be reported to the IT Security team within 1 hour of\ndiscovery.\n5. Expense Reimbursement",
+    "metadata": {
+      "source": "company_policy.pdf",
+      "page": 2,
+      "chunk_number": 1
+    }
+  },
+  {
+    "chunk_id": "company_policy_page_2_chunk_2",
+    "page_content": "discovery.\n5. Expense Reimbursement\n• Approved business expenses must be submitted through the Finance portal within 30 days of the expense\ndate.\n• Expense claims must include an itemized receipt and manager approval.\n• Finance normally processes complete claims within 10 working days.\n6. Training and Development\n• Each permanent employee has an annual professional development budget of USD 300, subject to\nmanager approval.",
+    "metadata": {
+      "source": "company_policy.pdf",
+      "page": 2,
+      "chunk_number": 2
+    }
+  },
+  {
+    "chunk_id": "company_policy_page_2_chunk_3",
+    "page_content": "manager approval.\n• Training requests must explain how the course supports the employee role or team goals.\n7. Contacts\n• Human Resources: hr@abc-example.com (fictional training address).\n• IT Security: security@abc-example.com (fictional training address).\n• Finance: finance@abc-example.com (fictional training address).",
+    "metadata": {
+      "source": "company_policy.pdf",
+      "page": 2,
+      "chunk_number": 3
+    }
+  }
+]
