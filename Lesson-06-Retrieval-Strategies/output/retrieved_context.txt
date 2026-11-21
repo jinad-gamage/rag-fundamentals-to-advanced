@@ -1,0 +1,7 @@
+[Context 1]
+Source: company_policy.pdf
+Page: 1
+Chunk ID: company_policy_page_1_chunk_4
+
+• Eligible employees may work remotely up to 2 days per week with manager approval.
+• Employees must follow company security requirements when working remotely.
